@@ -24,6 +24,8 @@ body {
 
 nav{
     background-color: #202020;
+    position: sticky;
+    top: 0;
 }
 
 .ulnav {
@@ -37,6 +39,11 @@ nav{
 a{
     color: white;
     text-decoration: none;
+}
+
+nav a{
+    font-size: large;
+    font-weight: bold;
 }
 
 nav a:hover{

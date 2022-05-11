@@ -6,8 +6,9 @@
 }
 
 .projectimg:hover{
-    height: 250px;
-    width: 444px;
+    height: 220px;
+    width: 390px;
+    transition-duration: 0.2s;
 }
 
 section{
