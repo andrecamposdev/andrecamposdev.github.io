@@ -18,3 +18,13 @@ section{
 p{
     text-align: center;
 }
+
+/*mobile*/
+
+@media (max-width: 480px) {
+
+.projectimg{
+    height: 150px;
+    width: 266px;
+}
+}
